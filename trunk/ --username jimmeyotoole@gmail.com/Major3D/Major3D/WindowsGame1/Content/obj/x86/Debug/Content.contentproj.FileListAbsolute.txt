@@ -1,0 +1,2 @@
+C:\Users\James\Desktop\Major3D\Major3D\WindowsGame1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\!Major\Major3D\Major3D\WindowsGame1\Content\obj\x86\Debug\ResolveAssemblyReference.cache

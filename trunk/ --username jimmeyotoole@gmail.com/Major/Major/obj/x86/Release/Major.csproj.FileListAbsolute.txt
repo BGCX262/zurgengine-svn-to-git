@@ -1,0 +1,8 @@
+C:\Users\James\Desktop\Major\Major\Major\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\Major\Major\Major\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Desktop\Major\Major\Major\bin\x86\Release\Content\circle.xnb
+C:\Users\James\Desktop\Major\Major\Major\bin\x86\Release\Major.exe
+C:\Users\James\Desktop\Major\Major\Major\bin\x86\Release\Major.pdb
+C:\Users\James\Desktop\Major\Major\Major\obj\x86\Release\Major.exe
+C:\Users\James\Desktop\Major\Major\Major\obj\x86\Release\Major.pdb
+C:\Users\James\Desktop\Major\Major\Major\bin\x86\Release\Content\SpriteFont1.xnb

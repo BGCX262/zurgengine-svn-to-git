@@ -1,0 +1,10 @@
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\creepz.xnb
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\circle.xnb
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\projectile.xnb
+C:\Users\jono\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\tile.xnb
